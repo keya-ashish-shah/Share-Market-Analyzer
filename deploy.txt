@@ -1,0 +1,13 @@
+streamlit	
+pandas	
+numpy	
+yfinance	
+matplotlib	
+scikit-learn	
+tensorflow	
+xlsxwriter	
+io (built-in)	
+datetime	
+
+
+execution command : streamlit run app.py
